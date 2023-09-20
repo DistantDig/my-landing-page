@@ -1,0 +1,33 @@
+* {
+    
+    font-family: 'Courier New', Courier, monospace;
+} 
+
+header {
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: aqua;
+    border: 10px;
+    border-color: lightblue;
+    text-align: center;
+}
+
+main {
+    position: relative;
+    top: 120px;
+}
+
+footer {
+    position: fixed;
+    display: block;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: aqua;
+    border: 10px;
+    border-color: lightblue;
+    text-align: center;
+}
